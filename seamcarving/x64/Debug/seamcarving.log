@@ -1,0 +1,20 @@
+﻿  seamcarving.c
+C:\Users\LENOVO\Dropbox\School\ESC190 - Computer Algorithms and Data Structures\seamcarving\seamcarving\c_img.c(39,24): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\LENOVO\Dropbox\School\ESC190 - Computer Algorithms and Data Structures\seamcarving\seamcarving\c_img.c(40,24): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\LENOVO\Dropbox\School\ESC190 - Computer Algorithms and Data Structures\seamcarving\seamcarving\c_img.c(63,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\LENOVO\Dropbox\School\ESC190 - Computer Algorithms and Data Structures\seamcarving\seamcarving\c_img.c(64,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\LENOVO\Dropbox\School\ESC190 - Computer Algorithms and Data Structures\seamcarving\seamcarving\seamcarving.c(31,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\LENOVO\Dropbox\School\ESC190 - Computer Algorithms and Data Structures\seamcarving\seamcarving\seamcarving.c(45,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\LENOVO\Dropbox\School\ESC190 - Computer Algorithms and Data Structures\seamcarving\seamcarving\seamcarving.c(67,36): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\LENOVO\Dropbox\School\ESC190 - Computer Algorithms and Data Structures\seamcarving\seamcarving\seamcarving.c(67,44): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\LENOVO\Dropbox\School\ESC190 - Computer Algorithms and Data Structures\seamcarving\seamcarving\seamcarving.c(67,52): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\LENOVO\Dropbox\School\ESC190 - Computer Algorithms and Data Structures\seamcarving\seamcarving\seamcarving.c(107,36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\LENOVO\Dropbox\School\ESC190 - Computer Algorithms and Data Structures\seamcarving\seamcarving\seamcarving.c(108,36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\LENOVO\Dropbox\School\ESC190 - Computer Algorithms and Data Structures\seamcarving\seamcarving\seamcarving.c(109,36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\LENOVO\Dropbox\School\ESC190 - Computer Algorithms and Data Structures\seamcarving\seamcarving\seamcarving.c(110,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\LENOVO\Dropbox\School\ESC190 - Computer Algorithms and Data Structures\seamcarving\seamcarving\seamcarving.c(112,52): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\LENOVO\Dropbox\School\ESC190 - Computer Algorithms and Data Structures\seamcarving\seamcarving\seamcarving.c(143,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\LENOVO\Dropbox\School\ESC190 - Computer Algorithms and Data Structures\seamcarving\seamcarving\seamcarving.c(167,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\LENOVO\Dropbox\School\ESC190 - Computer Algorithms and Data Structures\seamcarving\seamcarving\seamcarving.c(237,32): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\LENOVO\Dropbox\School\ESC190 - Computer Algorithms and Data Structures\seamcarving\seamcarving\seamcarving.c(237,46): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  seamcarving.vcxproj -> C:\Users\LENOVO\Dropbox\School\ESC190 - Computer Algorithms and Data Structures\seamcarving\x64\Debug\seamcarving.exe
